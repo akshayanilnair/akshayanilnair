@@ -78,6 +78,9 @@ A Digital Twin platform that predicts future health outcomes using AI by analyzi
 - Tailwind CSS
 - Vercel
 
+### Live Link
+https://life-twin-ai--akshaynair47060.replit.app
+
 ---
 
 # 🏆 Achievements
